@@ -111,13 +111,13 @@ export const SocialLinks = [
     id: 1,
     iconSrc: <IoLogoGithub className="text-textBase text-3xl cursor-pointer" />,
     name: "GitHub",
-    link: "#",
+    link: "https://github.com/Charliehexx",
   },
   {
     id: 1,
     iconSrc: <IoLogoYoutube className="text-red-500 text-3xl cursor-pointer" />,
     name: "YouTube",
-    link: "#",
+    link: "https://www.youtube.com/channel/UC61aM5QQDCPzpMUHh6rNVKA",
   },
   {
     id: 1,
@@ -133,7 +133,7 @@ export const SocialLinks = [
       <IoLogoLinkedin className="text-blue-800 text-3xl cursor-pointer" />
     ),
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/aditya-patel-307b071b9/",
+    link: "https://www.linkedin.com/in/aditya-patel-307b071b9",
   },
   {
     id: 1,
