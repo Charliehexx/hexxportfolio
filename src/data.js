@@ -133,7 +133,7 @@ export const SocialLinks = [
       <IoLogoLinkedin className="text-blue-800 text-3xl cursor-pointer" />
     ),
     name: "LinkedIn",
-    link: "www.linkedin.com/in/aditya-patel-307b071b9",
+    link: "https://www.linkedin.com/in/aditya-patel-307b071b9/",
   },
   {
     id: 1,
