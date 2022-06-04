@@ -141,6 +141,6 @@ export const SocialLinks = [
       <IoLogoWhatsapp className="text-green-500 text-3xl cursor-pointer" />
     ),
     name: "Whatsapp",
-    link: "https://wa.me/+917905834716?text=Hii there! got some intresting to discuss about blockchain",
+    link: "https://wa.me/+917905834716?text=Hii%20there!%20got%20some%20intresting%20to%20discuss%20about%20blockchain",
   },
 ];
