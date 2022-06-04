@@ -66,8 +66,8 @@ export const Projects = [
     id: 1,
     name: "Food Delivery UI Mockup",
     imageSrc: img1,
-    techs: "React Js, Redux, Material UI",
-    github: "#",
+    techs: "HTML, Responsive Web Design,Tailwind CSS",
+    github: "https://github.com/Charliehexx/peace-ecom",
   },
 //   {
 //     id: 2,
