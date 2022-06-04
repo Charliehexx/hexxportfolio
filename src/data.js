@@ -133,7 +133,7 @@ export const SocialLinks = [
       <IoLogoLinkedin className="text-blue-800 text-3xl cursor-pointer" />
     ),
     name: "LinkedIn",
-    link: "#",
+    link: "www.linkedin.com/in/aditya-patel-307b071b9",
   },
   {
     id: 1,
@@ -141,6 +141,6 @@ export const SocialLinks = [
       <IoLogoWhatsapp className="text-green-500 text-3xl cursor-pointer" />
     ),
     name: "Whatsapp",
-    link: "#",
+    link: "https://wa.me/+917905834716?text=Hii there! got some intresting to discuss about blockchain",
   },
 ];
