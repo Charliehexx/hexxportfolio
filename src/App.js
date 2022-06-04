@@ -1,4 +1,4 @@
- import Spline  from "@splinetool/react-spline";
+//  import Spline  from "@splinetool/react-spline";
 import adi from "./images/adi.jpg";
 import {
   VerticalTimeline,
@@ -109,11 +109,11 @@ function App() {
           </div>
         </nav>
 
-        <div className="relative" id="home">
-          <Spline className='h-340 w-656' scene="https://draft.spline.design/gMMHRfUHUowe4ucp/scene.splinecode" /> 
-          <div className="absolute bottom-10 w-full flex justify-center items-center">
+        <div className="relative" id="#home">
+//           <Spline className='h-340 w-656' scene="https://draft.spline.design/gMMHRfUHUowe4ucp/scene.splinecode" /> 
+//           <div className="absolute bottom-10 w-full flex justify-center items-center">
             
-          </div>
+//           </div>
         </div>
 
         <main className="w-[80%] mt-4">
