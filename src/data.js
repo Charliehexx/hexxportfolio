@@ -16,7 +16,7 @@ import img1 from "./images/p1.png";
 export const Experience = [
   {
     id: 1,
-    date: "2016 - present",
+    date: "2022 - present",
     iconsSrc: <IoCodeWorking />,
     title: "Working on Upgrading myself",
     location: "India",
@@ -64,7 +64,7 @@ export const Experience = [
 export const Projects = [
   {
     id: 1,
-    name: "Food Delivery UI Mockup",
+    name: "Ecommerce UI Mockup",
     imageSrc: img1,
     techs: "HTML, Responsive Web Design,Tailwind CSS",
     github: "https://github.com/Charliehexx/peace-ecom",
