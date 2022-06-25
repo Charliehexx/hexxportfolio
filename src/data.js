@@ -6,7 +6,8 @@ import {
   IoLogoLinkedin,
   IoLogoWhatsapp,
 } from "react-icons/io5";
-import {img1,img2} from "./images/p2.png";
+import img1 from "./images/p1.png";
+import img2 from "./images/p2.png";
 
 // import img2 from "./images/thumb-fullstack-socialmedia-app-react-sanity.png";
 // import img3 from "./images/thumb-google-map-clone-nextjs-feb22.png";
