@@ -72,7 +72,7 @@ export const Projects = [
   },
   {
     id: 2,
-    name: "React-Firebase Messenger App w",
+    name: "React-Firebase Messenger Chat App,
     imageSrc: img2,
     techs: "React Js,Firebase",
     github: "https://github.com/Charliehexx/react-messenger",
