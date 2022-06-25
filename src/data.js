@@ -25,7 +25,7 @@ export const Experience = [
   },
 //   {
 //     id: 2,
-//     date: "2014 - 2016",
+//     date: "201 - 2016",
 //     iconsSrc: <IoCodeWorking />,
 //     title: "Creative Director",
 //     location: "Doha, Qatar",
@@ -69,13 +69,13 @@ export const Projects = [
     techs: "HTML, Responsive Web Design,Tailwind CSS",
     github: "https://github.com/Charliehexx/peace-ecom",
   },
-//   {
-//     id: 2,
-//     name: "Full Stack Social Media App ",
-//     //imageSrc: img2,
-//     techs: "React Js, Sanity, Tailwind CSS",
-//     github: "#",
-//   },
+  {
+    id: 2,
+    name: "React-Firebase Messenger App w",
+    imageSrc: img2,
+    techs: "React Js,Firebase",
+    github: "https://github.com/Charliehexx/react-messenger",
+  },
 //   {
 //     id: 3,
 //     name: "Travel Advisor",
