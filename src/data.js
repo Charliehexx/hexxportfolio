@@ -82,7 +82,7 @@ export const Projects = [
      id: 3,
     name: "CRED UI Frontend Clone",
      imageSrc: img3,
-     techs: "ReactJS,CSS,Animista,IntersectionObserverAPI",
+     techs: "ReactJS,CSS,BrowserAPI",
      github: "https://github.com/Charliehexx/Cred-UI-Clone",
    },
 //   {
