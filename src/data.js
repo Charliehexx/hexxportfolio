@@ -8,7 +8,7 @@ import {
 } from "react-icons/io5";
 import img1 from "./images/p1.png";
 import img2 from "./images/p2.png";
-
+import img3 from "./images/p3.png";
 // import img2 from "./images/thumb-fullstack-socialmedia-app-react-sanity.png";
 // import img3 from "./images/thumb-google-map-clone-nextjs-feb22.png";
 // import img4 from "./images/thumb-pinterest-clone-reactjs.png";
@@ -78,13 +78,13 @@ export const Projects = [
     techs: "React Js,Firebase",
     github: "https://github.com/Charliehexx/react-messenger",
   },
-//   {
-//     id: 3,
-//     name: "Travel Advisor",
-//     //imageSrc: img3,
-//     techs: "React Js, Chakra UI, Google API",
-//     github: "#",
-//   },
+   {
+     id: 3,
+    name: "CRED UI Frontend Clone",
+     imageSrc: img3,
+     techs: "ReactJS,CSS,Animista,IntersectionObserverAPI",
+     github: "https://github.com/Charliehexx/Cred-UI-Clone",
+   },
 //   {
 //     id: 4,
 //     name: "Pintrest UI Clone 2.0 ",
