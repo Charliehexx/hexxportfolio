@@ -85,7 +85,7 @@ export const Projects = [
      imageSrc: img3,
      techs: "Ts,MongoDB,Nextjs13,Prisma,Pusher,Tailwind",
      github: "https://messenger-clone-opal-pi.vercel.app/",
-   }
+   },
   {
     id: 4,
     name: "Genius AI App ",
