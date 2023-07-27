@@ -9,7 +9,7 @@ import {
 import img1 from "./images/p1.png";
 import img2 from "./images/p2.png";
 import img3 from "./images/p3.png";
-// import img4 from "./images/p4.png";
+import img4 from "./images/p4.png";
 // import img2 from "./images/thumb-fullstack-socialmedia-app-react-sanity.png";
 // import img3 from "./images/thumb-google-map-clone-nextjs-feb22.png";
 // import img4 from "./images/thumb-pinterest-clone-reactjs.png";
@@ -69,30 +69,30 @@ export const Projects = [
     id: 1,
     name: "Ecommerce Application",
     imageSrc: img1,
-    techs: "TypeScript,Prisma,Mysql,Nextjs13,Stripe,Shadcn-ui",
+    techs: "Ts,Prisma,Mysql,Nextjs13,Stripe,Shadcn-ui",
     github: "https://ecommerce-frontend-store-two.vercel.app/",
   },
   {
     id: 2,
     name: "Airbnb Clone",
     imageSrc: img2,
-    techs: "TypeScript,Nextjs13,Prisma,MongoDB,React",
+    techs: "Ts,Nextjs13,Prisma,MongoDB,React,Next-Auth",
     github: "https://airbnbhexx.vercel.app/",
   },
    {
      id: 3,
     name: "Messenger Clone",
      imageSrc: img3,
-     techs: "MongoDB,Typescript,Nextjs13,Prisma,Pusher,Tailwind",
+     techs: "Ts,MongoDB,Nextjs13,Prisma,Pusher,Tailwind",
      github: "https://messenger-clone-opal-pi.vercel.app/",
    }
-  // {
-  //   id: 4,
-  //   name: "Genius AI App ",
-  //  imageSrc: img4,
-  //   techs: "TypeScript,Prisma,Planetscale,Mysql,Nextjs13",
-  //   github: "https://ai-saas-iota.vercel.app/",
-  // },
+  {
+    id: 4,
+    name: "Genius AI App ",
+   imageSrc: img4,
+    techs: "Ts,Prisma,Planetscale,Mysql,Nextjs13",
+    github: "https://ai-saas-iota.vercel.app/",
+  }
 //   {
 //     id: 5,
 //     name: "Own Video Blog",
