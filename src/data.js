@@ -18,12 +18,12 @@ import img3 from "./images/p3.png";
 export const Experience = [
   {
     id: 1,
-    date: "2022 - present",
+    date: "2022 November to February 2023",
     iconsSrc: <IoCodeWorking />,
-    title: "Working on Upgrading myself",
+    title: "Blockchain developer Intern",
     location: "India",
     description:
-      "Web Developer",
+      "Worked on various tech stack that include Nextjs,solidity ,ethereum,Ether.js for deploying the smart contract and integrating third party services in NFT-Marketplace for letting users to sign up using Gmail and github id ",
   },
 //   {
 //     id: 2,
