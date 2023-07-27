@@ -9,7 +9,7 @@ import {
 import img1 from "./images/p1.png";
 import img2 from "./images/p2.png";
 import img3 from "./images/p3.png";
-import img4 from "./images/p4.png";
+// import img4 from "./images/p4.png";
 // import img2 from "./images/thumb-fullstack-socialmedia-app-react-sanity.png";
 // import img3 from "./images/thumb-google-map-clone-nextjs-feb22.png";
 // import img4 from "./images/thumb-pinterest-clone-reactjs.png";
@@ -85,14 +85,14 @@ export const Projects = [
      imageSrc: img3,
      techs: "MongoDB,Typescript,Nextjs13,Prisma,Pusher,Tailwind",
      github: "https://messenger-clone-opal-pi.vercel.app/",
-   },
-  {
-    id: 4,
-    name: "Genius AI App ",
-   imageSrc: img4,
-    techs: "TypeScript,Prisma,Planetscale,Mysql,Nextjs13",
-    github: "https://ai-saas-iota.vercel.app/",
-  },
+   }
+  // {
+  //   id: 4,
+  //   name: "Genius AI App ",
+  //  imageSrc: img4,
+  //   techs: "TypeScript,Prisma,Planetscale,Mysql,Nextjs13",
+  //   github: "https://ai-saas-iota.vercel.app/",
+  // },
 //   {
 //     id: 5,
 //     name: "Own Video Blog",
