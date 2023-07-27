@@ -9,7 +9,7 @@ import {
 import img1 from "./images/p1.png";
 import img2 from "./images/p2.png";
 import img3 from "./images/p3.png";
-import img4 from "./images/p4.png"
+import img4 from "./images/p4.png";
 // import img2 from "./images/thumb-fullstack-socialmedia-app-react-sanity.png";
 // import img3 from "./images/thumb-google-map-clone-nextjs-feb22.png";
 // import img4 from "./images/thumb-pinterest-clone-reactjs.png";
