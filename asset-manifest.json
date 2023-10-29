@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/hexxportfolio/static/css/main.6e443e66.css",
+    "main.js": "/hexxportfolio/static/js/main.f7d98221.js",
+    "static/media/p1.png": "/hexxportfolio/static/media/p1.d97fdc4f366b1030a203.png",
+    "static/media/p2.png": "/hexxportfolio/static/media/p2.257ddc9a05d6d15fe6c7.png",
+    "static/media/p3.png": "/hexxportfolio/static/media/p3.13656870e0cdca171997.png",
+    "static/media/p4.png": "/hexxportfolio/static/media/p4.f6fab4b475b2c64fbb76.png",
+    "static/media/adi.jpg": "/hexxportfolio/static/media/adi.87a68574c276f2edb69d.jpg",
+    "index.html": "/hexxportfolio/index.html",
+    "main.6e443e66.css.map": "/hexxportfolio/static/css/main.6e443e66.css.map",
+    "main.f7d98221.js.map": "/hexxportfolio/static/js/main.f7d98221.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e443e66.css",
+    "static/js/main.f7d98221.js"
+  ]
+}
